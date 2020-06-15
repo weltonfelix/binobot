@@ -8,24 +8,24 @@ O Bino ajuda caminhoneiros a planejarem suas viagens para que elas sejam seguras
 Projeto construído durante a [HACKATHON CCR](http://www.grupoccr.com.br/hackathonccr/), organizada pela [Shawee](https://shawee.io).
 
 <p align="center">
-  <img alt="Github language counter" src="https://img.shields.io/github/languages/count/fabiopapaiss/binobot?color=%2304D361">
+  <img alt="Github language counter" src="https://img.shields.io/github/languages/count/weltonfelix/binobot?color=%2304D361">
 
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/fabiopapaiss/binobot">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/weltonfelix/binobot">
 	
   <a href="https://www.github.com/fabiopapaiss">
-    <img alt="Made by Welton" src="https://img.shields.io/badge/Made%20by-Fábio%20Papais-%2304D361">
+    <img alt="Made by Fábio Papais" src="https://img.shields.io/badge/Made%20by-Fábio%20Papais-%2304D361">
   </a>
 
   <a href="https://www.github.com/weltonfelix">
     <img alt="Made by Welton" src="https://img.shields.io/badge/Made%20by-Welton-%237159c1">
   </a>
 
-  <a href="https://github.com/fabiopapaiss/binobot/commits/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/fabiopapaiss/binobot">
+  <a href="https://github.com/weltonfelix/binobot/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/weltonfelix/binobot">
   </a>
 
-  <a href="https://github.com/fabiopapaiss/binobot/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/fabiopapaiss/binobot">
+  <a href="https://github.com/weltonfelix/binobot/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/weltonfelix/binobot">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
